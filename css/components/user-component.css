@@ -47,3 +47,16 @@
  margin-bottom: 5px;   
  display: block;
 }
+.user-component__text{
+    display: flex;
+    align-items: center;
+}
+.alert-icon{
+    position: relative;
+}
+.alert-icon i{
+    position: absolute;
+    top: 6.8px;
+    left: 5px;
+    color: red;
+}
